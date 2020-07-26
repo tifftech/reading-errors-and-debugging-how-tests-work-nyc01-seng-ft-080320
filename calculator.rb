@@ -4,4 +4,4 @@ second_number = 2
 
 first_number - second_number
 
-difference = 2
+sum = 2
